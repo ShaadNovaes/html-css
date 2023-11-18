@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+
+:root {
+    --cor01: #BF9EE0;
+    --cor02:#e0b9a496;
+    --cor03:#a77a9096;
+    --cor04: #6A76A8;
+    --cor05:#5C5440;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: var(--cor02);
+    
+}
+header {
+    background-image: linear-gradient(to bottom, var(--cor01), var(--cor02));
+    color: white;
+    text-align: center;
+}
+header > h1 {
+    padding-bottom: 10px;
+    font-size: 3em;
+    
+}
+header > p {
+    padding-top: 10px;
+}
+header > p > a {
+    color: white;
+    font-size: 1em;
+}
+main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 0px 0px 10px 10px;
+    min-width: 280px;
+    max-width: 600px;
+    text-align: justify;
+    margin: auto;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2em;
+}
+.texto01 {
+    text-indent: 30px;
+}
+.texto02 {
+    background-color: var(--cor03);
+    padding: 20px 20px 0px 20px;
+    color: white;
+    margin: auto;
+    text-align: center;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.377);
+    box-shadow: 1px 2px 0px rgba(0, 0, 0, 0.308);
+    border-radius: 5px;
+}
+section > h1 {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif
+}
+section > p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+section > p > a {
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+}
+.normal {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.imagem {
+    background-color: rgba(46, 45, 45, 0.377);
+    color: white;
+    box-shadow: 2px 0px 0px rgba(0, 0, 0, 0.301);
+    border-radius: 5px;
+    background-size: right center;
+    background-attachment: fixed;
+    text-align: center;
+}
+.imagem > p {
+    display: inline-block;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.24);
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.322);
+}
+#img01 {
+    background-image: url("../imagens/antique-7627999_1280.jpg");
+    background-position: left center;
+}
+#img02 {
+    background-image: url("../imagens/typewriter-5065594_1280.jpg");
+}
+footer {
+    background-color: var(--cor03);
+    color: white;
+    padding: 3px;
+}
+footer > p {
+    text-align: center;
+}

@@ -16,7 +16,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://shaadnovaes.github.io/html-css/exercicios/ex006/index.html">Executar o exercício 006</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex007/index.html">Executar o exercício 007</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex007/html4.html">Executar o exercício 007</a>
 
 <a href="https://shaadnovaes.github.io/html-css/exercicios/ex008/index.html">Executar o exercício 008</a>
 
@@ -32,27 +32,27 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://shaadnovaes.github.io/html-css/exercicios/ex014/index.html">Executar o exercício 014</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex015/index.html">Executar o exercício 015</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex015/pagina02.html">Executar o exercício 015</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex016/index.html">Executar o exercício 016</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex016/cor03.html">Executar o exercício 016</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex017/index.html">Executar o exercício 017</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex017/fonte02.html">Executar o exercício 017</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex018/index.html">Executar o exercício 018</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex018/fonte02.html">Executar o exercício 018</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 019</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercício 019</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 020</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex020/links.html">Executar o exercício 020</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex021/index.html">Executar o exercício 021</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex021/ciaxa01.html">Executar o exercício 021</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex022/index.html">Executar o exercício 022</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex022/fundo007.html">Executar o exercício 022</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex023/index.html">Executar o exercício 023</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex023/tabela006.html">Executar o exercício 023</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex024/index.html">Executar o exercício 024</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex024/iframe003.html">Executar o exercício 024</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex025/index.html">Executar o exercício 025</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex025/form010.html">Executar o exercício 025</a>
 
 <a href="https://shaadnovaes.github.io/html-css/exercicios/ex026/mq005/index.html">Executar o exercício 026</a>
 

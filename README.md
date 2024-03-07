@@ -54,5 +54,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://shaadnovaes.github.io/html-css/exercicios/ex025/index.html">Executar o exercício 025</a>
 
-<a href="https://shaadnovaes.github.io/html-css/exercicios/ex026/index.html">Executar o exercício 026</a>
+<a href="https://shaadnovaes.github.io/html-css/exercicios/ex026/mq005/index.html">Executar o exercício 026</a>
 
